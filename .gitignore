@@ -1,0 +1,13 @@
+/.build/
+/.swiftpm/
+/玄金钱包.app/
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+*.pem
+*.p12
+*.key
+*.dat
+*.bak
